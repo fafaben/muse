@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "111464846160",
+    "firebase_url": "https://museum-27-default-rtdb.firebaseio.com",
+    "project_id": "museum-27",
+    "storage_bucket": "museum-27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111464846160:android:42b323c6a56d23ec321255",
+        "android_client_info": {
+          "package_name": "com.mudjahid.museum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111464846160-d04ft4s83c7tfplbg0oiu62jnr47c0fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmjLINuyOMm1NPQEvK9A3LCnx5HIWaEGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111464846160-d04ft4s83c7tfplbg0oiu62jnr47c0fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
